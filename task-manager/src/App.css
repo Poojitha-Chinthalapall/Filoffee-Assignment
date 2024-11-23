@@ -1,0 +1,12 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: bisque;
+  
+}
+.heading{
+  color: orange;
+  text-align: center;
+   padding-top: 12px;
+  font-size:35px;
+}

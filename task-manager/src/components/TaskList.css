@@ -1,0 +1,22 @@
+.table {
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 18px;
+  }
+.edit-btn{
+    background-color: forestgreen;
+    color: white;
+    border-color: transparent;
+    margin-right: 5px;
+} 
+.delete-btn{
+    background-color: red;
+    border-color: transparent;
+    color: white;
+}
+.headings{
+    margin-right: 25px;
+    font-size: 15px;
+    font-weight: 700;
+    padding-right: 125px;
+}

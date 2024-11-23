@@ -1,0 +1,22 @@
+.add-task-form {
+    padding: 35px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    background-color: plum;
+    margin: 40px;
+  }
+.input-field{
+    font-size: medium;
+    font-weight: 800;
+    padding: auto;
+    font-family: "roboto";
+    margin-top: 15px;
+}
+.button{
+    background-color: dodgerblue;
+    color: white;
+    border-color: transparent;
+    border-radius: 8px;
+    height: 30px;
+    width: 50px;
+} 
